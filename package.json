@@ -1,0 +1,22 @@
+{
+  "name": "bash",
+  "version": "1.0.0",
+  "description": "Node workshop part 2",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPfi12/Node-Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CPfi12/Node-Workshop/issues"
+  },
+  "homepage": "https://github.com/CPfi12/Node-Workshop#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
